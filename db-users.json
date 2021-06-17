@@ -1,0 +1,40 @@
+[
+    {
+        "email": "zarlykovabegim@gmail.com",
+        "password": "7890@#784"
+    },
+    {
+        "email": "altynai@gmail.com",
+        "password": "free3425"
+    },
+    {
+        "email": "karina@gmail.com",
+        "password": "karina89$$$88"
+    },
+    {
+        "email": "myrat002@gmail.com",
+        "password": "lpplplpl90909009"
+    },
+    {
+        "email": "madina@gmail.com",
+        "password": "aindm581381846"
+    },
+    [
+        {
+            "email": "zarlykovabegim@gmail.com",
+            "password": "7890@#784"
+        },
+        {
+            "email": "karina@gmail.com",
+            "password": "karina89$$$88"
+        },
+        {
+            "email": "myrat002@gmail.com",
+            "password": "lpplplpl90909009"
+        },
+        {
+            "email": "madina@gmail.com",
+            "password": "aindm581381846"
+        }
+    ]
+]
